@@ -1,15 +1,15 @@
 Prueba técnica para MIAA
 
-Pasos de instalación
+Pasos de instalación:
   -	Clonar el proyecto 
   -	Abrir terminal en carpeta raíz del proyecto
   -	Instalar las dependencias necesarias
-      o	npm install
-      o	yarn install
+      - npm install
+      -	yarn install
 
-Ejecutar el servidor de desarrollo
-    o	npm run dev
-    o	yarn dev
+Ejecutar el servidor de desarrollo:
+  - npm run dev
+  - yarn dev
 
 Después de los pasos anteriores:
   -	Abrir navegador en directorio de localhost (puerto 3000 por defecto)
